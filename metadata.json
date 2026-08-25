@@ -1,0 +1,6 @@
+{
+  "name": "Desafío 50+ - Pilates en Casa",
+  "description": "Quiz interactivo completo del Desafío 50+ de Pilates en Casa por Lays Trancoso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
